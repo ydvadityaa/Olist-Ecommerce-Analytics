@@ -70,7 +70,7 @@ Analyzes customer distribution, repeat behavior, cities, states, and purchasing 
 - Customer Type Distribution
 - Geographic customer analysis
 
-![Customer & Market Insights](screenshots/03_Customer_Market.png)
+![Customer & Market Insights](screenshots/03_Customer_Market__Insights.png)
 
 ---
 
